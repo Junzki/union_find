@@ -41,4 +41,4 @@ to execute the Weighted Quick-Union Union-Find with the largest data file.
 
 
 ### License
-All Python code in this project is provided under _BSD 3-Clause "New" or "Revised" License_.
+All Python code in this project are provided under _BSD 3-Clause "New" or "Revised" License_.
