@@ -12,7 +12,7 @@ python run.py command data-file
 
 - `simple` - Quick-Find Union-Find
 - `quick-union` - Quick-Union Union-Find
-- `weighted` - Weighted quick-Union Union-Find
+- `weighted` - Weighted Quick-Union Union-Find
 
 #### Data Files:
 
